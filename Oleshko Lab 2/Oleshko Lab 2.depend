@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1687681199 source:c:\main\university\Чисельні методи\+\oleshko\oleshko lab 2\main.cpp
+	<bits/stdc++.h>
+	<locale>
+	"windows.h"
+
